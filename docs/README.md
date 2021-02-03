@@ -1,1 +1,1 @@
-About I am responsible for the JavaScript of this project, the HTML/CSS for this project is a template I used for implementing functionality. This project is a web form that is responsive to user input in real time.
+I am responsible for the JavaScript of this project, the HTML/CSS for this project is a template I used for implementing functionality. This project is a web form that is responsive to user input in real time.
